@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "database",
+    "port": 27017,
+    "url": "",
+    "database": "kidsTasksDB",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
